@@ -1,4 +1,4 @@
-#Electronic Device Shopping Cart
+# Electronic Device Shopping Cart
 
 This project implements an electronic device shopping cart system using Object-Oriented Programming (OOP). Customers can browse, add devices to their cart, and purchase electronic devices such as smartphones, laptops, and tablets. The system manages stock levels and applies discounts.
 
@@ -156,7 +156,7 @@ Total Cart Price: 3198
 **Example 4: Checkout**
 Your total price is 3198. Thank you for shopping with us
 Exiting the program.
-##UML
+## UML
 [https://github.com/bbzet/Assignment5oop/blob/main/UMLassign5.png]
 
 
