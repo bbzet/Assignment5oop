@@ -59,6 +59,7 @@ while True:
                 print(f"{item['device'].name} - Quantity: {item['amount']}, Total Price: {item['device'].price * item['amount']}")
             print(f"Total Cart Price: {user1.get_total_price()}")
     elif choice == '3':
+        print(user1.checkout())
         print("Exiting the program.")
         break
     else:
