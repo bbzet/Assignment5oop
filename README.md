@@ -8,13 +8,13 @@ Each device has common attributes like name, price, and stock, along with unique
 
 Customers can:
 
-**Add devices to their shopping cart.
+Add devices to their shopping cart.
 
 Specify quantities.
 
 Proceed to checkout.
 
-Device Types & Attributes**
+Device Types & Attributes
 
 ### 1. Smartphone
 
