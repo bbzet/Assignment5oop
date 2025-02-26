@@ -157,7 +157,7 @@ Total Cart Price: 3198
 Your total price is 3198. Thank you for shopping with us
 Exiting the program.
 ## UML
-[https://github.com/bbzet/Assignment5oop/blob/main/UMLassign5.png]
+![](https://raw.githubusercontent.com/bbzet/Assignment5oop/refs/heads/main/UMLassign5.png)
 
 
 
